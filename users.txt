@@ -1,0 +1,10 @@
+=== Login & Registration System ===
+1. Register
+2. Login
+3. Exit
+Choose an option: 1
+
+--- Registration ---
+Enter username: shreya123
+Enter password: mypass123
+Registration successful!
